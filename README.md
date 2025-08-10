@@ -130,11 +130,11 @@ Create a `.env` file in the root directory:
 
 ```env
 # API Configuration
-VITE_API_URL=https://api.bongaquino.com
+VITE_API_URL=https://api.example.com
 VITE_API_VERSION=v1
 
 # Authentication
-VITE_AUTH_DOMAIN=auth.bongaquino.com
+VITE_AUTH_DOMAIN=auth.example.com
 
 # Feature Flags
 VITE_ENABLE_ANALYTICS=true
@@ -261,10 +261,10 @@ pnpm preview
 
 ## 📞 Support & Resources
 
-- **📖 Documentation**: [Component Storybook](https://storybook.bongaquino.com)
+- **📖 Documentation**: [Component Storybook](https://storybook.example.com)
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/bongaquino/frontend-web/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/bongaquino/frontend-web/discussions)
-- **📧 Contact**: bong@bongaquino.com
+- **📧 Contact**: admin@example.com
 
 ---
 
