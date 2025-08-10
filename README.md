@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Bong Aquino Frontend & Integration Project Template
+=======
+# AR Data Frontend & Integration Project Template
+>>>>>>> 3a2910ec791e639dfad87b9f2172f54f9e80bc98
 
 A modern frontend template with ReactJS, Vite, Tailwind CSS, ShadCN, Axios, React Query, and React Router.
 
